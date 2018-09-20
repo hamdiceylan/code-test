@@ -10,9 +10,9 @@ Build an app that:
 * Is performant in its fetching and scrolling
 * Has a basic, clean layout (no crazy design skills needed
 
-Mobile should do this exercise in Swift or Kotlin
+**Mobile** should do this exercise in Swift or Kotlin
 
-Web should do this exercise in React 
+**Web** should do this exercise in React 
 
 ### Submitting
 
