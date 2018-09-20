@@ -25,3 +25,5 @@ You have 5 days from receiving this assignment to complete it unless something r
 Feel free to ask any questions needed to complete the assignment. Send to zack@sobump.com
 
 ### Good Luck!
+
+![](https://media3.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
