@@ -18,7 +18,7 @@ Build an app that:
 
 Fork this repo and in a public repo on your Github account, push your code.  Send us a link when ready.
 
-You have 5 days from receiving this assignment to complete it unless something reasonable occurs. Just communicate if there is an issue. Good communication is the backbone of everything.
+You have 5 days from receiving this assignment to complete it unless something reasonable occurs. If you get this on a Monday or a Tuesday, please submit it by EOD the following Sunday. Just communicate if there is an issue. Good communication is the backbone of everything.
 
 ### Questions
 
