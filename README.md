@@ -22,7 +22,7 @@ You have 5 days from receiving this assignment to complete it unless something r
 
 ### Questions
 
-Feel free to ask any questions needed to complete the assignment. Send to [mailto:zack@sobump.com](zack@sobump.com).
+Feel free to ask any questions needed to complete the assignment. Send to [zack@sobump.com](mailto:zack@sobump.com).
 
 ### Good Luck!
 
