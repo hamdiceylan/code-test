@@ -5,7 +5,7 @@
 Build an app that: 
 
 * Hits the [Giphy API](https://developers.giphy.com/docs/)
-* Randomly selects a keyword or phrase from a hard-coded array of keywords
+* Randomly selects a keyword or phrase from a hard-coded array of keywords of your choosing
 * Shows the gifs in an infinite scrolling fashion
 * Is performant in its fetching and scrolling
 * Has a basic, clean layout (no crazy design skills needed
