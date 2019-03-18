@@ -20,7 +20,7 @@ Fork this repo and in a public repo on your Github account, push your code.  Sen
 
 You have 5 days from receiving this assignment to submit your work to [jack@sobump.com](mailto:jack@sobump.com).
 
-**Submission: Please include a readme that explains how to set up the project to run locally on another person's machine and send a video or a gif that shows the app in action**
+**Please include a readme that explains how to set up the project to run locally on another person's machine and send a video or a gif that shows the app in action**
 
 ### Questions
 
