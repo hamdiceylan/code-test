@@ -14,7 +14,7 @@ npm install && npm start
 
 ![](https://media.giphy.com/media/S8NUgZYOaknXTnY0Xv/giphy.gif)
 
-Note: If gif its now shown above please click [here](https://media.giphy.com/media/S8NUgZYOaknXTnY0Xv/giphy.gif) to see
+Note: If gif not shown above please click [here](https://media.giphy.com/media/S8NUgZYOaknXTnY0Xv/giphy.gif) to see
 
 
 
