@@ -1,31 +1,22 @@
-# BUMP code test
+# Hamdi Ceylan- Bump Code Test 
 
-### Your Task: 
+To run on your machine :
 
-Build an app that: 
+```
+git clone https://github.com/hamdiceylan/code-test.git
+cd code-test
+npm install && npm start
+```
 
-* Hits the [Giphy API](https://developers.giphy.com/docs/)
-* Randomly selects a keyword or phrase from a hard-coded array of keywords of your choosing
-* Shows the gifs in an infinite scrolling fashion
-* Is performant in its fetching and scrolling
-* Has a basic, clean layout (no crazy design skills needed)
+[Click here to see deployed demo on heroku](http://bump-code-test.herokuapp.com/)
 
-### Languages 
 
-**Mobile** should do this exercise in Swift or Kotlin. **Web** should do this exercise in React.
 
-### Submitting
+![](https://media.giphy.com/media/S8NUgZYOaknXTnY0Xv/giphy.gif)
 
-Fork this repo and in a public repo on your Github account, push your code.  Send us a link when ready.
+Note: If gif its now shown above please click [here](https://media.giphy.com/media/S8NUgZYOaknXTnY0Xv/giphy.gif) to see
 
-You have 5 days from receiving this assignment to submit your work to [jack@sobump.com](mailto:jack@sobump.com).
 
-**Please include a readme that explains how to set up the project to run locally on another person's machine and send a video or a gif that shows the app in action**
 
-### Questions
 
-Feel free to ask any questions needed to complete the assignment. Send to [jack@sobump.com](mailto:jack@sobump.com).
 
-### Good Luck!
-
-![](https://media3.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
